@@ -6,6 +6,7 @@ Playing with [Langchain](https://docs.langchain.com/docs/).
 > 🏗️ Under construction...
 
 ## Usage
+0. Set up your API keys in a file called `.env` (see `.env.example` for an example)
 1. Set up and activate conda environment
     ```bash
     conda env create -f conda.yml
