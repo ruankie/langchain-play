@@ -1,17 +1,24 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/ruankie/langchain-play)](https://github.com/ruankie/langchain-play)
 
 # 🦜🔗👾 langchain-play
-Easy set up to play around with [Langchain](https://docs.langchain.com/docs/).
+This repo can be used as a template to easily set up [Langchain](https://docs.langchain.com/docs/).
+
+You can find some [examples here](./notebooks/) for getting up to speed with the basics of Langchain.
+
 > 🏗️ Under construction...
 
+## Prerequisites
+1. 🐍 You will need a working install of [`conda`](https://www.anaconda.com/download#downloads).
+2. 🔑 You will need an API key from OpenAI. You can create one for free [here](https://platform.openai.com/account/api-keys).
+
 ## Usage
-0. Set up your API keys in a file called `.env` (see `.env.example` for an example)
-1. Set up and activate conda environment
+1. Set up your API keys in a file called `.env` (see `.env.example` for an example)
+2. Set up and activate conda environment
     ```bash
     conda env create -f conda.yml
     conda activate langchain
     ```
-2. Check out the examples:
+3. Check out the examples:
    - Notebooks at `./notebooks/`
    - Scripts at `./src/`
 
