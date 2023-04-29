@@ -1,6 +1,6 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/ruankie/langchain-play)](https://github.com/ruankie/langchain-play)
 
-# 🦜🔗-👾 langchain-play
+# 🦜🔗👾 langchain-play
 Easy set up to play around with [Langchain](https://docs.langchain.com/docs/).
 > 🏗️ Under construction...
 
