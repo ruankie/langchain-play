@@ -11,6 +11,6 @@ Easy set up to play around with [Langchain](https://docs.langchain.com/docs/).
     conda env create -f conda.yml
     conda activate langchain
     ```
-2. Check out the scripts in `./src/` and the notebooks in `./notebooks/`
-
-This template creates the following folder structure:
+2. Check out the examples:
+   - Notebooks at `./notebooks/`
+   - Scripts at `./src/`
