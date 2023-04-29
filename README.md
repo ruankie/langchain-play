@@ -1,5 +1,4 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/ruankie/langchain-play)](https://github.com/ruankie/langchain-play)
-[![GitHub file size in bytes](https://img.shields.io/github/size/ruankie/langchain-play)](https://github.com/ruankie/langchain-play)
 
 # langchain-play
 Playing with [Langchain](https://docs.langchain.com/docs/).
