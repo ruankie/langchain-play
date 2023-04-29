@@ -14,3 +14,9 @@ Easy set up to play around with [Langchain](https://docs.langchain.com/docs/).
 2. Check out the examples:
    - Notebooks at `./notebooks/`
    - Scripts at `./src/`
+
+## Useful Resources
+- https://python.langchain.com/en/latest/index.html
+- https://www.youtube.com/watch?v=MlK6SIjcjE8
+- https://platform.openai.com/account/rate-limits
+- https://platform.openai.com/docs/api-reference
