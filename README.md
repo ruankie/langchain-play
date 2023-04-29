@@ -1,11 +1,11 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/ruankie/langchain-play)](https://github.com/ruankie/langchain-play)
 
 # 🦜🔗👾 langchain-play
-This repo can be used as a template to easily set up [Langchain](https://docs.langchain.com/docs/).
+This repo can be used as a template to easily set up [LangChain](https://docs.langchain.com/docs/). LangChain is a framework for developing applications powered by language models.
 
-You can find some [examples here](./notebooks/) for getting up to speed with the basics of Langchain.
+You can find some [examples here](./notebooks/) for getting up to speed with the basics of LangChain.
 
-> 🏗️ Under construction...
+> 🏗️ Under construction. More coming soon...
 
 ## Prerequisites
 1. 🐍 You will need a working install of [`conda`](https://www.anaconda.com/download#downloads).
