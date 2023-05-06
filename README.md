@@ -24,6 +24,7 @@ You can find some [examples here](./notebooks/) for getting up to speed with the
 
 ## Useful Resources
 - https://python.langchain.com/en/latest/index.html
-- https://www.youtube.com/watch?v=MlK6SIjcjE8
 - https://platform.openai.com/account/rate-limits
 - https://platform.openai.com/docs/api-reference
+- https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5
+- https://www.youtube.com/watch?v=MlK6SIjcjE8
